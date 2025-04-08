@@ -1,0 +1,42 @@
+
+.App{
+  background-color: antiquewhite;
+  padding: 10px;
+  text-align: center;
+
+
+}
+.weather-container{
+  background-color: #b45280;
+  max-width:  400px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+
+
+}
+.weather-button {
+  background-color: #3498db;
+  margin-left: 10px ;
+  margin-top: 10 px ;
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.weather-info{
+  padding: 2px ;
+  color: black;
+  font-size: 5vmin;
+}
+input[type="text"]{
+  padding: 10px;
+  font-size: medium;
+  
+
+}
